@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/27 14:56:24.000.684,=\\fs-users\RobertoF$\Terminalserver\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2022/05/27 13:24:26.000.512,=\\fs-users\RobertoF$\Terminalserver\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2022/06/21 12:38:32.000.036,=\\fs-users\RobertoF$\Terminalserver\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2022/09/13 15:34:17.000.715,=\\fs-users\RobertoF$\Terminalserver\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2022/09/13 15:35:54.000.791,D:\temp\TestPHPicker\Unit7.fmx=\\fs-users\RobertoF$\Terminalserver\Documents\Embarcadero\Studio\Projects\Unit7.fmx</Transaction>
+    <Transaction>2022/09/13 15:35:54.000.791,D:\temp\TestPHPicker\Unit7.pas=\\fs-users\RobertoF$\Terminalserver\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2022/09/13 15:35:56.000.564,D:\temp\TestPHPicker\Project5.dproj=\\fs-users\RobertoF$\Terminalserver\Documents\Embarcadero\Studio\Projects\Project5.dproj</Transaction>
+    <Transaction>2022/09/13 15:36:54.000.889,=D:\temp\TestPHPicker\iOSapi.PhotosUI.pas</Transaction>
+    <Transaction>2022/09/13 15:38:19.000.654,=D:\temp\TestPHPicker\Unit1.pas</Transaction>
+    <Transaction>2022/09/13 15:40:42.000.612,D:\temp\TestPHPicker\iOS.PHPickerViewController.pas=D:\temp\TestPHPicker\Unit1.pas</Transaction>
+    <Transaction>2022/09/13 16:32:11.000.013,=D:\temp\TestPHPicker\Unit1.pas</Transaction>
+    <Transaction>2022/09/14 09:20:36.000.818,D:\temp\TestPHPicker\iOSapi.PhotosUI.pas=</Transaction>
+    <Transaction>2022/09/14 09:22:31.000.139,=D:\temp\TestPHPicker\iOSapi.Photos.pas</Transaction>
+    <Transaction>2022/09/14 09:22:31.000.238,=D:\temp\TestPHPicker\PhotoPicker.iOS.pas</Transaction>
+    <Transaction>2022/09/14 09:22:31.000.196,=D:\temp\TestPHPicker\iOSapi.PhotosUI.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PIOSDevice iOSDevice64="_iosdevice_00008101-0011359C3E10001E" iOSSimARM64=""/>
+		<NoProfile Android64="" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
